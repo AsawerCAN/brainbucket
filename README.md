@@ -1,10 +1,6 @@
 # BrainBucket
 
-BrainBucket is a powerful and user-friendly web application designed to help users organize, search, and manage content, all in one place. It supports efficient content management and offers features such as CRUD operations, search functionality, and a streamlined UI for enhanced productivity.
-
-## About the Project
-
-BrainBucket simplifies content management, providing an intuitive interface for organizing information. With the search functionality and CRUD operations, users can efficiently add, update, and delete content, making it a versatile tool for personal or professional use.
+BrainBucket is a powerful and user-friendly web application designed to help users organize, search, and manage content in one place. It supports efficient content management and offers features such as CRUD operations, where users can efficiently add, update, and delete content. This makes it a versatile tool for personal or professional use. It also has search functionality and a streamlined UI for enhanced productivity.
 
 ## Features
 
